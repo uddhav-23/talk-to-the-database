@@ -37,3 +37,4 @@ npm start
 
 ## License
 MIT
+## some files are changed in order to keep privacy mainatained if you want to acccess the code use your own api keys and other credentials.
